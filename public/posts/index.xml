@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on edmod</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on edmod</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>id-id</language>
+    <lastBuildDate>Tue, 17 Feb 2026 10:00:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Tue, 17 Feb 2026 10:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h2 id=&#34;halo-dunia&#34;&gt;Halo Dunia!&lt;/h2&gt;
+&lt;p&gt;Ini adalah artikel pertama saya di blog Hugo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fitur yang tersedia:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdown support&lt;/li&gt;
+&lt;li&gt;Cepat dan ringan&lt;/li&gt;
+&lt;li&gt;Gratis hosting&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
